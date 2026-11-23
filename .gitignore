@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.env
+src/prisma/generated/
+
+notes.txt
+.claude/
+.agents/
+CLAUDE.md
+AGENTS.md
+CONTEXT.md
